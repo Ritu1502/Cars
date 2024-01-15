@@ -1,4 +1,4 @@
-Car Data Analysis and Categorization Project
+# Car Data Analysis and Categorization Project
 Overview
 Welcome to the Car Data Analysis and Categorization project! This project is designed to assist customers in making informed decisions when choosing a car based on various parameters. We analyze data from different car brands, categorize the cars by price range, and present the results in an interactive dashboard.
 
